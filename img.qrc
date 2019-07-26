@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/t.jpg</file>
+        <file>img/wh.png</file>
+        <file>img/wv.png</file>
+        <file>img/r.png</file>
+        <file>img/run_btn.png</file>
+        <file>img/rel_btn.png</file>
+        <file>img/rel_btn_r.png</file>
+        <file>img/boom_r.png</file>
+    </qresource>
+</RCC>
